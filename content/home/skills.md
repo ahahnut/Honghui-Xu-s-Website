@@ -18,11 +18,11 @@ subtitle:
 feature:
   - description: 50%
     icon: java
-    icon_pack: far
+    icon_pack: custom
     name: Java
   - description: 100%
     icon: python
-    icon_pack: far
+    icon_pack: custom
     name: Python
   - description: 100%
     icon: chart-line
