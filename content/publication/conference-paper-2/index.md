@@ -30,7 +30,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: 2022 IEEE International Conferences on Internet of Things (iThings) and IEEE Green Computing & Communications (GreenCom) and IEEE Cyber, Physical & Social Computing (CPSCom) and IEEE Smart Data (SmartData) and IEEE Congress on Cybermatics (Cybermatics)
-publication_short:  IEEE SmartData
+publication_short:  IEEE SmartData (Best Paper)
 
 abstract: "Deep learning based techniques are broadly used in a variety of applications such as image recognition, natural language processing, etc., which express leading performance than traditional methods. However, adversarial samples can cause severe problems for deep learning models, especially for vision-based deep neural networks. Adversarial training is a commonly adopted strategy to defend adversarial samples, but it lacks generalization capability due to the transferability of adversarial samples to work on cross-task predictions. In addition, the input processing method of deep learning pipeline can improve generalization capability for cross-task predictions, whereas processing newly generated adversarial samples is the major bottleneck that limits its performance. To deal with these issues, this paper proposes a purification mechanism that combines both adversarial training-based and input processing-based methods to defend the threats of adversarial samples. The proposed mechanism has a strong generalization capability for various vision-based deep learning tasks by leveraging the advantage of input processing-based methods and maintaining the defense efficiency of adversarial training-based methods. Comprehensive experiments are conducted on multiple datasets that demonstrate the superiority of the proposed approach against the state-of-the-art methods on defending adversarial samples."
 
@@ -40,7 +40,7 @@ summary: This paper proposes a purification mechanism that combines both adversa
 tags: []
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
