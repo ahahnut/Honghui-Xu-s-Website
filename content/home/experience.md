@@ -76,5 +76,5 @@ experience:
     description: Develop more novel privacy-preservation algorithms and design more efficient deep learning architectures.
 
 design:
-  columns: "6"
+  columns: "2"
 ---
