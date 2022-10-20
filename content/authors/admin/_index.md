@@ -70,6 +70,10 @@ social:
     icon_pack: fab
     link: https://www.douyin.com/user/MS4wLjABAAAAt9HufZuy43GyTmxXW3zu-pVqQzNPufuB652r9e1n4Jo/
     header: true
+  - icon: instagram
+    icon_pack: fab
+    link: https://www.instagram.com/henryxu412/
+    header: true
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
