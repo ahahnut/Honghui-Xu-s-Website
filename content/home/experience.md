@@ -46,7 +46,7 @@ experience:
     location: Chengdu China
     date_start: "2017-08-26"
     date_end: "2018-12-28"
-    description: Become a teaching assistant to go to Electronics Technology 29-th Institution of China to conduct Reinforcement Learning lectures with Professor Xie Ning.
+    description: Become a teaching assistant to go to Electronics Technology 29-th Institution of China to conduct Reinforcement Learning lectures.
 
   - title: Software Development Engineer
     company: Huawei
