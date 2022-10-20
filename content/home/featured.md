@@ -7,10 +7,10 @@ widget: collection
 headless: true
 
 # Order that this section appears on the page.
-weight: 80
+weight: 30
 
 title: Featured Publications
-subtitle: ''
+subtitle: ""
 
 content:
   # Page type to display. E.g. post, talk, publication...
@@ -20,10 +20,10 @@ content:
   # Filter on criteria
   filters:
     featured_only: true
-    author: ''
-    category: ''
-    publication_type: ''
-    tag: ''
+    author: ""
+    category: ""
+    publication_type: ""
+    tag: ""
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
 
