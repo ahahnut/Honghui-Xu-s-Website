@@ -1,38 +1,39 @@
 ---
-title: 'An example conference paper'
+title: "Which Option is a Better Way to Improve Transfer Learning Performance?"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Robert Ford
+  - Zhipeng Cai
+  - Wei Li
 
 # Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+# author_notes:
+#   - "Equal contribution"
+#   - "Equal contribution"
 
-date: '2013-07-01T00:00:00Z'
-doi: ''
+date: "2021-08-31"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: "2021-10-13"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['1']
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: International Conference on Combinatorial Optimization and Applications
+publication_short: In COCOA
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: "Transfer learning has been widely applied in Artificial Intelligence of Things (AIoT) to support intelligent services. Typically, collection and collaboration are two mainstreaming methods to improve transfer learning performance, whose efficiency has been evaluated by real-data experimental results but lacks validation of theoretical analysis. In order to provide guidance of implementing transfer learning in real applications, a theoretical analysis is in desired need to help us fully understand how to efficiently improve transfer learning performance. To this end, in this paper, we conduct comprehensive analysis on the methods of enhancing transfer learning performance. More specifically, we prove the answers to three critical questions for transfer learning: i) by comparing collecting instances and collecting attributes, which collection approach is more efficient? ii) is collaborative transfer learning efficient? and iii) by comparing collection with collaboration, which one is more efficient? Our answers and findings can work as fundamental guidance for developing transfer learning."
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: A theoretical analysis is in desired need to help us fully understand how to efficiently improve transfer learning performance
 
 tags: []
 
@@ -44,36 +45,36 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_video: 'https://youtube.com'
+url_pdf: ""
+# url_code: "https://github.com/wowchemy/wowchemy-hugo-themes"
+# url_dataset: "https://github.com/wowchemy/wowchemy-hugo-themes"
+# url_poster: ""
+# url_project: ""
+# url_slides: ""
+# url_source: "https://github.com/wowchemy/wowchemy-hugo-themes"
+# url_video: "https://youtube.com"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ''
-  preview_only: false
+# image:
+#   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
+#   focal_point: ""
+#   preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-  - example
+# projects:
+#   - example
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+# slides: example
 ---
 
 {{% callout note %}}
