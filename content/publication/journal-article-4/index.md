@@ -1,17 +1,20 @@
 ---
-title: "Privacy-Preserving Mechanisms for Multi-Label Image Recognition"
+title: "Generative Adversarial Networks: A Survey Toward Private and Secure Applications"
 authors:
-  - admin
   - Zhipeng Cai
+  - Zuobin Xiong
+  - admin
+  - Peng Wang
   - Wei Li
+  - Yi Pan
 # author_notes:
 #   - "Equal contribution"
 #   - "Equal contribution"
-date: "2022-08-23"
+date: "2021-04-27"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-08-23"
+publishDate: "2021-07-13"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -20,13 +23,13 @@ publishDate: "2022-08-23"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "ACM Transaction on Knowledge Discovery from Data 16(4)"
-publication_short: "TKDD"
+publication: "ACM Computing Surveys 54(6)"
+publication_short: "CSUR"
 
-abstract: Multi-label image recognition has been an indispensable fundamental component for many real computer vision applications. However, a severe threat of privacy leakage in multi-label image recognition has been overlooked by existing studies. To fill this gap, two privacy-preserving models, Privacy-Preserving Multi-label Graph Convolutional Networks (P2-ML-GCN) and Robust P2-ML-GCN (RP2-ML-GCN), are developed in this article, where differential privacy mechanism is implemented on the model’s outputs so as to defend black-box attack and avoid large aggregated noise simultaneously. In particular, a regularization term is exploited in the loss function of RP2-ML-GCN to increase the model prediction accuracy and robustness. After that, a proper differential privacy mechanism is designed with the intention of decreasing the bias of loss function in P2-ML-GCN and increasing prediction accuracy. Besides, we analyze that a bounded global sensitivity can mitigate excessive noise’s side effect and obtain a performance improvement for multi-label image recognition in our models. Theoretical proof shows that our two models can guarantee differential privacy for model’s outputs, weights and input features while preserving model robustness. Finally, comprehensive experiments are conducted to validate the advantages of our proposed models, including the implementation of differential privacy on model’s outputs, the incorporation of regularization term into loss function, and the adoption of bounded global sensitivity for multi-label image recognition.
+abstract: Generative Adversarial Networks (GANs) have promoted a variety of applications in computer vision and natural language processing, among others, due to its generative model’s compelling ability to generate realistic examples plausibly drawn from an existing distribution of samples. GAN not only provides impressive performance on data generation-based tasks but also stimulates fertilization for privacy and security oriented research because of its game theoretic optimization strategy. Unfortunately, there are no comprehensive surveys on GAN in privacy and security, which motivates this survey to summarize systematically. The existing works are classified into proper categories based on privacy and security functions, and this survey conducts a comprehensive analysis of their advantages and drawbacks. Considering that GAN in privacy and security is still at a very initial stage and has imposed unique challenges that are yet to be well addressed, this article also sheds light on some potential privacy and security applications with GAN and elaborates on some future research directions.
 
 # Summary. An optional shortened abstract.
-summary: Two privacy-preserving models, Privacy-Preserving Multi-label Graph Convolutional Networks (P2-ML-GCN) and Robust P2-ML-GCN (RP2-ML-GCN), are developed in this article, where differential privacy mechanism is implemented on the model’s outputs so as to defend black-box attack and avoid large aggregated noise simultaneously.
+summary: The existing works are classified into proper categories based on privacy and security functions, and this survey conducts a comprehensive analysis of their advantages and drawbacks.
 
 # tags:
 #   - Source Themes
@@ -35,8 +38,8 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://dl.acm.org/doi/abs/10.1145/3491231
-url_code: "https://github.com/ahahnut/-R-P2-ML-GCN"
+url_pdf: https://dl.acm.org/doi/pdf/10.1145/3459992
+# url_code: "https://github.com/ahahnut/-R-P2-ML-GCN"
 # url_dataset: ""
 # url_poster: ""
 # url_project: ""

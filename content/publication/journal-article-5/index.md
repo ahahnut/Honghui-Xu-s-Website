@@ -1,17 +1,18 @@
 ---
-title: "Privacy-Preserving Mechanisms for Multi-Label Image Recognition"
+title: "Deep Generative Models in the Industrial Internet of Things: A Survey"
 authors:
+  - Suparna De
+  - Maria Bermudez-Edo
   - admin
   - Zhipeng Cai
-  - Wei Li
 # author_notes:
 #   - "Equal contribution"
 #   - "Equal contribution"
-date: "2022-08-23"
+date: "2022-02-20"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-08-23"
+publishDate: "2022-03-03"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -20,23 +21,23 @@ publishDate: "2022-08-23"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "ACM Transaction on Knowledge Discovery from Data 16(4)"
-publication_short: "TKDD"
+publication: "IEEE Transaction on Industrial Informatics"
+publication_short: "TII"
 
-abstract: Multi-label image recognition has been an indispensable fundamental component for many real computer vision applications. However, a severe threat of privacy leakage in multi-label image recognition has been overlooked by existing studies. To fill this gap, two privacy-preserving models, Privacy-Preserving Multi-label Graph Convolutional Networks (P2-ML-GCN) and Robust P2-ML-GCN (RP2-ML-GCN), are developed in this article, where differential privacy mechanism is implemented on the model’s outputs so as to defend black-box attack and avoid large aggregated noise simultaneously. In particular, a regularization term is exploited in the loss function of RP2-ML-GCN to increase the model prediction accuracy and robustness. After that, a proper differential privacy mechanism is designed with the intention of decreasing the bias of loss function in P2-ML-GCN and increasing prediction accuracy. Besides, we analyze that a bounded global sensitivity can mitigate excessive noise’s side effect and obtain a performance improvement for multi-label image recognition in our models. Theoretical proof shows that our two models can guarantee differential privacy for model’s outputs, weights and input features while preserving model robustness. Finally, comprehensive experiments are conducted to validate the advantages of our proposed models, including the implementation of differential privacy on model’s outputs, the incorporation of regularization term into loss function, and the adoption of bounded global sensitivity for multi-label image recognition.
+abstract: Advances in communication technologies and artificial intelligence are accelerating the paradigm of industrial Internet of Things (IIoT). With IIoT enabling continu- ous integration of sensors and controllers with the network, intelligent analysis of the generated Big Data is a critical requirement. Although IIoT is considered a subset of IoT, it has its own peculiarities in terms of higher levels of safety, security, and low-latency communication in an environment of critical real-time operations. Under these circumstances, discriminative deep learning (DL) algorithms are unsuitable due to their need for large amounts of labeled and balanced training data, uncertainty of inputs, etc. To overcome these issues, researchers have started using deep generative models (DGMs), which combine the flexibility of DL with the inference power of probabilistic modeling. In this article, we review the state of the art of DGMs and their applicability to IIoT, classifying the reviewed works into the IIoT application areas of anomaly detection, trust-boundary protection, network traffic prediction, and platform monitoring. Following an analysis of existing IIoT DGM implementations, we identify challenges (i.e., weak discriminative capability, insufficient interpretability, lack of generalization ability, generated data vulnerability, privacy concern, and data complexity) that need to be investigated in order to accelerate the adoption of DGMs in IIoT and also propose some potential research directions.
 
 # Summary. An optional shortened abstract.
-summary: Two privacy-preserving models, Privacy-Preserving Multi-label Graph Convolutional Networks (P2-ML-GCN) and Robust P2-ML-GCN (RP2-ML-GCN), are developed in this article, where differential privacy mechanism is implemented on the model’s outputs so as to defend black-box attack and avoid large aggregated noise simultaneously.
+summary: We review the state of the art of DGMs and their applicability to IIoT, classifying the reviewed works into the IIoT application areas of anomaly detection, trust-boundary protection, network traffic prediction, and platform monitoring.
 
 # tags:
 #   - Source Themes
-featured: true
+featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://dl.acm.org/doi/abs/10.1145/3491231
-url_code: "https://github.com/ahahnut/-R-P2-ML-GCN"
+url_pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9726814
+# url_code: "https://github.com/ahahnut/-R-P2-ML-GCN"
 # url_dataset: ""
 # url_poster: ""
 # url_project: ""

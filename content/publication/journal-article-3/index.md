@@ -31,7 +31,7 @@ summary: We propose a CityCam-to-Edge cooperative learning framework by cooperat
 
 # tags:
 #   - Source Themes
-featured: true
+featured: false
 
 # links:
 # - name: ""
