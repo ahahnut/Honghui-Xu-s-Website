@@ -75,6 +75,24 @@ experience:
     date_end:
     description: Develop more novel privacy-preservation algorithms and design more efficient deep learning architectures.
 
+  - title: Lab Instructor
+    company: Department of Computer Science in Georgia State University (GSU)
+    company_url: "https://csds.gsu.edu"
+    # company_logo: org-x
+    location: Atlanta USA
+    date_start: "2020-09-01"
+    date_end: "2022-05-31"
+    description: Teach CSc 1301/1302 (Java Programming Language) for Undergraduate Students.
+
+  - title: Lab Instructor
+    company: Department of Computer Science in Georgia State University (GSU)
+    company_url: "https://csds.gsu.edu"
+    # company_logo: org-x
+    location: Atlanta USA
+    date_start: "2022-06-01"
+    date_end:
+    description: Teach CSc 3210 (Assembly Language Programming) for Undergraduate Students.
+
 design:
   columns: "2"
 ---
