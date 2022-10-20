@@ -1,24 +1,26 @@
 ---
-title: "Which Option is a Better Way to Improve Transfer Learning Performance?"
+title: "A Self-Supervised Purification Mechanism for Adversarial Samples"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
+  - Bingyi Xie
   - admin
+  - Zuobin Xiong
+  - Yingshu Li
   - Zhipeng Cai
-  - Wei Li
 
 # Author notes (optional)
 # author_notes:
 #   - "Equal contribution"
 #   - "Equal contribution"
 
-date: "2021-08-31"
+date: "2022-04-31"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-10-13"
+publishDate: "2022-08-22"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -27,25 +29,25 @@ publishDate: "2021-10-13"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: International Conference on Combinatorial Optimization and Applications
-publication_short: COCOA
+publication: 2022 IEEE International Conferences on Internet of Things (iThings) and IEEE Green Computing & Communications (GreenCom) and IEEE Cyber, Physical & Social Computing (CPSCom) and IEEE Smart Data (SmartData) and IEEE Congress on Cybermatics (Cybermatics)
+publication_short:  IEEE SmartData
 
-abstract: "Transfer learning has been widely applied in Artificial Intelligence of Things (AIoT) to support intelligent services. Typically, collection and collaboration are two mainstreaming methods to improve transfer learning performance, whose efficiency has been evaluated by real-data experimental results but lacks validation of theoretical analysis. In order to provide guidance of implementing transfer learning in real applications, a theoretical analysis is in desired need to help us fully understand how to efficiently improve transfer learning performance. To this end, in this paper, we conduct comprehensive analysis on the methods of enhancing transfer learning performance. More specifically, we prove the answers to three critical questions for transfer learning: i) by comparing collecting instances and collecting attributes, which collection approach is more efficient? ii) is collaborative transfer learning efficient? and iii) by comparing collection with collaboration, which one is more efficient? Our answers and findings can work as fundamental guidance for developing transfer learning."
+abstract: "Deep learning based techniques are broadly used in a variety of applications such as image recognition, natural language processing, etc., which express leading performance than traditional methods. However, adversarial samples can cause severe problems for deep learning models, especially for vision-based deep neural networks. Adversarial training is a commonly adopted strategy to defend adversarial samples, but it lacks generalization capability due to the transferability of adversarial samples to work on cross-task predictions. In addition, the input processing method of deep learning pipeline can improve generalization capability for cross-task predictions, whereas processing newly generated adversarial samples is the major bottleneck that limits its performance. To deal with these issues, this paper proposes a purification mechanism that combines both adversarial training-based and input processing-based methods to defend the threats of adversarial samples. The proposed mechanism has a strong generalization capability for various vision-based deep learning tasks by leveraging the advantage of input processing-based methods and maintaining the defense efficiency of adversarial training-based methods. Comprehensive experiments are conducted on multiple datasets that demonstrate the superiority of the proposed approach against the state-of-the-art methods on defending adversarial samples."
 
 # Summary. An optional shortened abstract.
-summary: A theoretical analysis is in desired need to help us fully understand how to efficiently improve transfer learning performance
+summary: This paper proposes a purification mechanism that combines both adversarial training-based and input processing-based methods to defend the threats of adversarial samples.
 
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: "https://link.springer.com/chapter/10.1007/978-3-030-92681-6_6"
+url_pdf: "https://ieeexplore.ieee.org/abstract/document/9903202"
 # url_code: "https://github.com/wowchemy/wowchemy-hugo-themes"
 # url_dataset: "https://github.com/wowchemy/wowchemy-hugo-themes"
 # url_poster: ""
