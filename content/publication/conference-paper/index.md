@@ -45,7 +45,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ""
+url_pdf: "https://link.springer.com/chapter/10.1007/978-3-030-92681-6_6"
 # url_code: "https://github.com/wowchemy/wowchemy-hugo-themes"
 # url_dataset: "https://github.com/wowchemy/wowchemy-hugo-themes"
 # url_poster: ""
