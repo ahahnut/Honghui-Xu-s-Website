@@ -3,6 +3,7 @@ title: "Privacy-Preserving Mechanisms for Multi-Label Image Recognition"
 authors:
   - admin
   - Zhipeng Cai
+  - Wei Li
 # author_notes:
 #   - "Equal contribution"
 #   - "Equal contribution"
