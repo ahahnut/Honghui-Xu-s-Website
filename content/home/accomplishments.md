@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplish&shy;ments'
+title: "Accomplish&shy;ments"
 subtitle:
 
 # Date format
@@ -23,31 +23,69 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://www.coursera.org
-    date_end: ''
-    date_start: '2021-01-25'
-    description: ''
-    organization: Coursera
-    organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
-    url: ''
-  - certificate_url: https://www.edx.org
-    date_end: ''
-    date_start: '2021-01-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
-    organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
-    description: ''
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
-    url: ''
+  - date_end: ""
+    date_start: "2015-09-01"
+    # description: ""
+    organization: UESTC
+    organization_url: https://www.uestc.edu.cn
+    title: UESTC's Freshman Scholarship
+    url: ""
+    # certificate_url: https://www.coursera.org
+
+  - date_end: ""
+    date_start: "2016-09-01"
+    # description: ""
+    organization: UESTC
+    organization_url: https://www.uestc.edu.cn
+    title: UESTC's Second-Class Scholarship
+    url: ""
+    # certificate_url: https://www.coursera.org
+
+  - date_end: ""
+    date_start: "2017-09-01"
+    # description: ""
+    organization: School of Computer Science and Engineering in UESTC
+    organization_url: https://www.uestc.edu.cn
+    title: UESTC's First-Class Scholarship
+    url: ""
+    # certificate_url: https://www.coursera.org
+
+  - date_end: ""
+    date_start: "2018-09-01"
+    # description: ""
+    organization: School of Computer Science and Engineering in UESTC
+    organization_url: https://www.uestc.edu.cn
+    title: UESTC's First-Class Scholarship
+    url: ""
+    # certificate_url: https://www.coursera.org
+
+  - date_end: ""
+    date_start: "2019-06-01"
+    # description: ""
+    organization: School of Computer Science and Engineering in UESTC
+    organization_url: https://www.uestc.edu.cn
+    title: UESTC's Undergraduate Scholarship
+    url: ""
+    # certificate_url: https://www.coursera.org
+
+  - date_end: ""
+    date_start: "2019-09-01"
+    # description: ""
+    organization: Department of Computer Science in GSU
+    organization_url: https://csds.gsu.edu
+    title: Graduate Research Assistant Award
+    url: ""
+    # certificate_url: https://www.coursera.org
+
+  - date_end: ""
+    date_start: "2022-03-01"
+    # description: ""
+    organization: Department of Computer Science in GSU
+    organization_url: https://csds.gsu.edu
+    title: Outstanding Research Award
+    url: ""
+    # certificate_url: https://www.coursera.org
 
 design:
-  columns: '2'
+  columns: "2"
 ---
