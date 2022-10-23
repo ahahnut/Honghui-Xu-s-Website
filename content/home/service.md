@@ -1,21 +1,22 @@
----
+<!-- --- -->
 
 # An instance of the Experience widget.
 
 # Documentation: https://wowchemy.com/docs/page-builder/
 
-widget: experience
+# widget: experience
 
-# This file represents a page section.
+# # This file represents a page section.
 
-headless: true
+# headless: true
 
-# Order that this section appears on the page.
+# # Order that this section appears on the page.
 
-weight: 60
+# weight: 60
 
-title: Services
-subtitle:
+# title: Services
+
+# subtitle:
 
 # Date format for experience
 
