@@ -30,7 +30,7 @@ summary: Two privacy-preserving models, Privacy-Preserving Multi-label Graph Con
 
 # tags:
 #   - Source Themes
-featured: true
+featured: false
 
 # links:
 # - name: ""
