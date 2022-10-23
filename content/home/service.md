@@ -21,7 +21,7 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-experience:
+service:
   - title: Reviewer of IEEE Transaction on Vehicle Technology
   - title: Reviewer of IEEE Transaction on Wireless Communication
   - title: Reviewer of IEEE Transaction on Industrial Informatics
@@ -34,5 +34,5 @@ experience:
   - title: Reviewer of EAI WiCON 2022
 
 design:
-  columns: "1"
+  columns: "2"
 ---
