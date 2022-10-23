@@ -43,16 +43,3 @@ experience:
 design:
   columns: "2"
 ---
-
-experience:
-
-- title: Reviewer of IEEE Transaction on Vehicle Technology
-- title: Reviewer of IEEE Transaction on Wireless Communication
-- title: Reviewer of IEEE Transaction on Industrial Informatics
-- title: Reviewer of IEEE Internet of Things Journal
-- title: Reviewer of IEEE Networking Letters
-- title: Reviewer of Neurocomputing
-- title: Reviewer of High-Confidence Computing
-- title: Reviewer of IEEE Access
-- title: Reviewer of Globalcom 2020
-- title: Reviewer of EAI WiCON 2022
