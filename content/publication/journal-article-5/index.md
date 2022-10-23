@@ -22,7 +22,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "IEEE Transaction on Industrial Informatics"
-publication_short: "TII"
+publication_short: "TII (Impact Factor: 10.215)"
 
 abstract: Advances in communication technologies and artificial intelligence are accelerating the paradigm of industrial Internet of Things (IIoT). With IIoT enabling continu- ous integration of sensors and controllers with the network, intelligent analysis of the generated Big Data is a critical requirement. Although IIoT is considered a subset of IoT, it has its own peculiarities in terms of higher levels of safety, security, and low-latency communication in an environment of critical real-time operations. Under these circumstances, discriminative deep learning (DL) algorithms are unsuitable due to their need for large amounts of labeled and balanced training data, uncertainty of inputs, etc. To overcome these issues, researchers have started using deep generative models (DGMs), which combine the flexibility of DL with the inference power of probabilistic modeling. In this article, we review the state of the art of DGMs and their applicability to IIoT, classifying the reviewed works into the IIoT application areas of anomaly detection, trust-boundary protection, network traffic prediction, and platform monitoring. Following an analysis of existing IIoT DGM implementations, we identify challenges (i.e., weak discriminative capability, insufficient interpretability, lack of generalization ability, generated data vulnerability, privacy concern, and data complexity) that need to be investigated in order to accelerate the adoption of DGMs in IIoT and also propose some potential research directions.
 
