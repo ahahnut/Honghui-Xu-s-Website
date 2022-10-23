@@ -48,14 +48,14 @@ experience:
     date_end: "2018-12-28"
     description: Become a teaching assistant to go to Electronics Technology 29-th Institution of China to conduct Reinforcement Learning lectures.
 
-  - title: Software Development Engineer Intern
-    company: Huawei
-    company_url: "https://www.huawei.com/cn/"
-    # company_logo: org-x
-    location: Chengdu China
-    date_start: "2018-07-01"
-    date_end: "2018-08-31"
-    description: Test Networking Functions in Huawei Cloud.
+  # - title: Software Development Engineer Intern
+  #   company: Huawei
+  #   company_url: "https://www.huawei.com/cn/"
+  #   # company_logo: org-x
+  #   location: Chengdu China
+  #   date_start: "2018-07-01"
+  #   date_end: "2018-08-31"
+  #   description: Test Networking Functions in Huawei Cloud.
 
   - title: Undergraduate Research Assistant
     company: Dr.Ling Tian's Lab in School of Computer Science and Engineering (UESTC)
