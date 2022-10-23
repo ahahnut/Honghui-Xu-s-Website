@@ -15,7 +15,7 @@ publishDate: "2022-09-13"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "TDSC"
+publication: ""
 publication_short: "Processing"
 
 abstract: Multimodal sentiment analysis has been an indispensable fundamental component for many real applications. However, a severe threat of privacy leakage in the multimodal sentiment analysis has been overlooked by previous works. To fill this gap, we propose a Differentially Private Correlated Representation Learning (DPCRL) model to achieve privacy-preserving multimodal sentiment analysis by combining a correlated representation learning scheme with a differential privacy protection scheme. Our correlated representation learning scheme aims to transform high-dimension data transformation to meet the requirements of privacy-preserving multimodal sentiment analysis by learning the correlated and uncorrelated representations, where especially, an pre-determined correlation factor is employed to flexibly adjust the expected correlation among the correlated representations. The differential privacy protection scheme is used to obtain the disturbed correlated and uncorrelated representations by adding Laplace noise to for ε-differential privacy. In particular, the correlation factor can help alleviate the side-effect of the added Laplace noise on the sentiment prediction performance. Finally, via conducting a series of real-data experiments, we validate that our proposed DPCRL model is superior to the state-of-the-arts for privacy-preserving multimodal sentiment analysis.
@@ -26,7 +26,6 @@ summary: We propose a Differentially Private Correlated Representation Learning 
 # tags:
 #   - Source Themes
 featured: True
-
 # links:
 #   - name: Custom Link
 #     url: http://example.org
