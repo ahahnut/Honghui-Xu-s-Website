@@ -51,6 +51,6 @@ Reviewer of EAI WiCON 2022
 #     # date_end:
 #     # description: Teach CSc 3210 (Assembly Language Programming) for Undergraduate Students.
 
-design:
-  columns: "2"
+# design:
+#   columns: "2"
 ---
