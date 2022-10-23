@@ -89,8 +89,8 @@ email: "xuhonghui0412@gmail.com"
 highlight_name: true
 ---
 
-Honghui Xu is a PhD student advised by [Dr.Cai Zhipeng](https://scholar.google.com/citations?user=tq-LVzIAAAAJ&hl=zh-CN) in Department of Computer Science at Georgia State University (GSU).
-He received a Bachelor's degree from University of Eletronic Science and Technology of China (UESTC), advised by [Dr.Deng Yong](https://scholar.google.com/citations?user=gF0H9nEAAAAJ&hl=zh-CN), and [Dr.Xu Zenglin](https://scholar.google.com/citations?user=Zuhod6sAAAAJ&hl=zh-CN).
+Honghui Xu is a PhD student, advised by [Dr.Cai Zhipeng](https://scholar.google.com/citations?user=tq-LVzIAAAAJ&hl=zh-CN) and [Dr.Wei Li](https://scholar.google.com/citations?user=tHTIu_EAAAAJ&hl=zh-CN), in Department of Computer Science at Georgia State University (GSU).
+He received a Bachelor's degree from University of Eletronic Science and Technology of China (UESTC), advised by [Dr.Deng Yong](https://scholar.google.com/citations?user=gF0H9nEAAAAJ&hl=zh-CN), [Dr.Xu Zenglin](https://scholar.google.com/citations?user=Zuhod6sAAAAJ&hl=zh-CN), Dr.Xie Ning, and Dr.Tian Ling.
 His research focuses on machine learning and deep learning, including the fundamental theory of machine learning, the applications of deep learning in computer vision field, and the topic about privacy-preserving machine learning.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Honghui_Xu_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
