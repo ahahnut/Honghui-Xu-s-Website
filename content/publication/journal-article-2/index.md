@@ -31,7 +31,7 @@ summary: We propose a cycle vector-quantized variational autoencoder (cycle-VQ-V
 
 # tags:
 #   - Source Themes
-featured: True
+featured: False
 
 # links:
 # - name: ""
