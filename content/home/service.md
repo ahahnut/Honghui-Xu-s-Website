@@ -48,8 +48,10 @@ design:
 - Reviewer of IEEE Transaction on Wireless Communication
 - Reviewer of IEEE Transaction on Industrial Informatics
 - Reviewer of IEEE Internet of Things Journal
+- Reviewer of IEEE Transaction on Social Systems
 - Reviewer of IEEE Networking Letters
 - Reviewer of Neurocomputing
+- Reviewer of Computer Communications
 - Reviewer of High-Confidence Computing
 - Reviewer of IEEE Access
 - Reviewer of Globalcom 2020
