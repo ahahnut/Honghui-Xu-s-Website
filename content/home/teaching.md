@@ -37,8 +37,17 @@ experience:
     # company_logo: org-x
     location: Atlanta USA
     date_start: "2022-06-01"
-    date_end:
+    date_end: "2022-12-05"
     description: Teach CSc 3210 (Assembly Language Programming) for Undergraduate Students.
+
+  - title: Lab Instructor
+    company: Department of Computer Science in Georgia State University (GSU)
+    company_url: "https://csds.gsu.edu"
+    # company_logo: org-x
+    location: Atlanta USA
+    date_start: "2023-01-13"
+    date_end:
+    description: Teach CSc 8230 (Secure and Private AI) for Graduate Students.
 
 design:
   columns: "2"
