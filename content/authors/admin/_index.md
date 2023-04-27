@@ -10,7 +10,7 @@ last_name: Xu
 superuser: true
 
 # Role/position/tagline
-role: PhD Student
+role: Ph.D. Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
